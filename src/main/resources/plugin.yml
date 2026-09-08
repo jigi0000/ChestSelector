@@ -1,0 +1,10 @@
+name: ChestSelector
+version: 1.0.0
+main: com.chestselector.ChestSelectorPlugin
+description: 상자 지정기 및 약탈 보상 시스템
+authors:
+  - jigi0000
+commands:
+  chestselector:
+    description: 상자 지정기 명령어
+    usage: /chestselector <명령어>
